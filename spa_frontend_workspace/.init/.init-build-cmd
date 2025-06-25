@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/texttransform-hub-71141-1948d36f/spa_frontend_workspace/spa_frontend"
+}
